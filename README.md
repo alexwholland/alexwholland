@@ -1,7 +1,7 @@
 ## Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Visitor Count](https://profile-counter.glitch.me/{alexwholland}/count.svg)
-![image title](https://rushter.com/counter.svg)
+![image title](https://alexwholland.com/counter.svg)
 
 ### I'm a Programmer at UVic!
 
