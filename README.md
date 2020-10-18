@@ -1,6 +1,6 @@
-### Welcome to my profile! 👋
+## Welcome to my profile! 👋
 
-## I'm a Programmer at UVic!!
+### I'm a Programmer at UVic!!
 
 - Im Majoring in Software Engineering
 - 🌱 I’m currently learning everything 🤣
