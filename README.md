@@ -1,5 +1,7 @@
 ## Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 ### I'm a Programmer at UVic!
 
 - 💻 Im Majoring in Software Engineering
