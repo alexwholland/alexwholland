@@ -1,6 +1,5 @@
 ## Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Visitor Count](https://profile-counter.glitch.me/{alexwholland}/count.svg)
 [![Profile views](https://gpvc.arturio.dev/alexwholland)](https://github.com/arturssmirnovs)
 
 ### I'm a Programmer at UVic!
