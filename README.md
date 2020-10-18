@@ -4,8 +4,8 @@
 
 ### I'm a Programmer at UVic!
 
-- 💻 Im Majoring in Software Engineering
-- 🙋 I’m currently learning everything 
+- 💻 I'm Majoring in Software Engineering
+- 🙋 I'm currently learning everything 
 - 🥅 2020 Goals: Search for a Coop
 - ✨ Enjoys: Reading and Video Games
 
