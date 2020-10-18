@@ -1,4 +1,4 @@
-### Hi there, I'm Alex 👋
+### Welcome to my profile! 👋
 
 ## I'm a Programmer at UVic!!
 
