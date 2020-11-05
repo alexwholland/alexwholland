@@ -1,6 +1,6 @@
 ## Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Profile views](https://gpvc.arturio.dev/alexwholland)](https://github.com/arturssmirnovs)
+[![Profile views](https://gpvc.arturio.dev/alexwholland)](https://github.com/alexwholland)
 
 ### I'm a Programmer at UVic!
 
