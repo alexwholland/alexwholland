@@ -3,9 +3,8 @@
 [![Profile views](https://gpvc.arturio.dev/alexwholland)](https://github.com/alexwholland)
 
 
-
-<br />
-
-[instagram]: https://www.instagram.com/alexwholland/
-[linkedin]: https://www.linkedin.com/in/alex-holland-a366891aa/
-
+<a href="https://github.com/alexwholland">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/alexwholland">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>
