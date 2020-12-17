@@ -2,24 +2,7 @@
 
 [![Profile views](https://gpvc.arturio.dev/alexwholland)](https://github.com/alexwholland)
 
-### I'm a Programmer at UVic!
 
-- 💻 I'm Majoring in Software Engineering
-- 🙋 I'm currently learning everything 
-- 🥅 2020 Goals: Search for a Coop
-
-### Connect with me:
-
-[<img align="left" alt="alexwholland | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alexwholland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
----
-
-### Languages and Tools:
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 
