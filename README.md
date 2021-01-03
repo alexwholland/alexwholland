@@ -2,8 +2,8 @@
 
 [![Profile views](https://gpvc.arturio.dev/alexwholland)](https://github.com/alexwholland)
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexwholland&hide=contribs,prs&layout=compact&theme=radical)
 
-<a href="https://github.com/alexwholland">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexwholland&hide=contribs&layout=compact&theme=radical" />
-</a>
+<p allight="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexwholland&show_icons=true&theme=radical&hide=prs,contribs" alt="Alex's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexwholland&theme=radical&hide_langs_below=1&layout=compact" />
+  </p>
