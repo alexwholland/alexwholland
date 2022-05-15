@@ -1,5 +1,5 @@
 
-## <div align="center">Welcome to my profile! <img src="https://user-images.githubusercontent.com/65423187/93247992-94e4c680-f765-11ea-9f42-052f22fc331c.gif" width="30px"></div>
+## <div align="center">Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
 <p align="center">
   <a href="https://github.com/alexwholland">
